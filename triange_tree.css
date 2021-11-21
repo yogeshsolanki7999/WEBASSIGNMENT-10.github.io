@@ -1,6 +1,20 @@
 body{
     background-color: #007065;
 }
+.triangle-green{
+    height: 0px;
+    width: 0px;
+    border-radius: 0px;
+    border: 150px solid;
+    border-color:transparent;
+    border-bottom-color:#10b395;
+    margin-left: 200px;
+    display: inline-block;
+    margin-bottom: 800px;
+    border-top:none ;
+    margin-top: 270px;
+    position: fixed;
+}
 .triangle-white{
     height: 0px;
     width: 0px;
@@ -31,20 +45,8 @@ position:fixed;
 }
 
 
-.triangle-green{
-    height: 0px;
-    width: 0px;
-    border-radius: 0px;
-    border: 150px solid;
-    border-color:transparent;
-    border-bottom-color:#10b395;
-    margin-left: 200px;
-    display: inline-block;
-    margin-bottom: 800px;
-    border-top:none ;
-    margin-top: 270px;
-}
+
 
 #position{
-    margin-left: 130px;
+    margin-left: 400px;
 }
